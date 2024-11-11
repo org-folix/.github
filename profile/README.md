@@ -1,6 +1,6 @@
 # Folix.it
 
-Welcome to **Folix.it**! We're on a mission to make it effortless for anyone to build a stunning online portfolio—no coding or design hours required. Here at Folix.it, we believe showcasing your skills, experience, and personal style should be as intuitive and enjoyable as it is powerful.
+Welcome to **[Folix.me](https://folix.me)**! We're on a mission to make it effortless for anyone to build a stunning online portfolio—no coding or design hours required. Here at Folix.it, we believe showcasing your skills, experience, and personal style should be as intuitive and enjoyable as it is powerful.
 
 ### 🌟 What We’re Building
 
@@ -41,4 +41,4 @@ We’re a group of passionate builders focused on empowering creativity, so don�
 
 ---
 
-Thanks for stopping by Folix.it! 🌐
+Thanks for stopping by [Folix.me](https://folix.me)! 🌐
